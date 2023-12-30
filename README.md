@@ -1,5 +1,6 @@
 # 💫 About Me:
- 🔭 I’m currently working on my React.js skills<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React.JS, Next.JS, Tailwind CSS, CSS<br>⚡ Fun fact I love Coding
+ 🔭 I’m currently working on my React.js skills
+ <br>🌱 I’m currently learning React.JS, Next.JS, Tailwind CSS, CSS<br>⚡ Fun fact I love Coding
 
 
 ## 🌐 Socials:
