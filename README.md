@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="200" src="[https://i.imgflip.com/65efzo.gif](https://media.tenor.com/tLN8s3PoWxEAAAAM/elon-musk-dancing.gif)"  />
+<img align="right" height="200" src="https://media.tenor.com/tLN8s3PoWxEAAAAM/elon-musk-dancing.gif"  />
 
 ###
 
@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31mxo4t2d6qocrwuqndrracmtbni">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mxo4t2d6qocrwuqndrracmtbni&count=2" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mxo4t2d6qocrwuqndrracmtbni&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
