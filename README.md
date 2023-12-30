@@ -22,23 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=advik-aggarwal&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://raw.githubusercontent.com/advik-aggarwal/advik-aggarwal/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img align="right" height="200" src="https://media.tenor.com/tLN8s3PoWxEAAAAM/elon-musk-dancing.gif"  />
-
-###
-
-<p align="left">Hello My Name is Advik</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31mxo4t2d6qocrwuqndrracmtbni">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mxo4t2d6qocrwuqndrracmtbni&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
